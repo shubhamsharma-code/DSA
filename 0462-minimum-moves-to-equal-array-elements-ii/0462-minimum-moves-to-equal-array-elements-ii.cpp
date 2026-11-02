@@ -1,15 +1,15 @@
 class Solution {
 public:
     int minMoves2(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
+        nth_element(nums.begin(), nums.begin() + nums.size() / 2, nums.end());
 
         int median = nums[nums.size() / 2];
         long long moves = 0;
 
-        for (int x : nums) {
-            moves += abs(x - median);
+        for (int num : nums) {
+            moves += llabs((long long)num - median);
         }
 
-        return moves;
+        return (int)moves;
     }
 };

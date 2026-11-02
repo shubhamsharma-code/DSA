@@ -8,6 +8,7 @@ DSA Question
 | ------- |
 | [0001-two-sum](https://github.com/shubhamsharma-code/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamsharma-code/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shubhamsharma-code/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +56,12 @@ DSA Question
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shubhamsharma-code/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shubhamsharma-code/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shubhamsharma-code/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->

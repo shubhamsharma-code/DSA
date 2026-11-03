@@ -28,6 +28,7 @@ DSA Question
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamsharma-code/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhamsharma-code/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shubhamsharma-code/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/shubhamsharma-code/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shubhamsharma-code/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -43,6 +44,7 @@ DSA Question
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamsharma-code/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhamsharma-code/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shubhamsharma-code/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/shubhamsharma-code/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shubhamsharma-code/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -55,6 +57,7 @@ DSA Question
 ## Binary Search Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/shubhamsharma-code/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shubhamsharma-code/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Math
 |  |

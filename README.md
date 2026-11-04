@@ -7,6 +7,7 @@ DSA Question
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhamsharma-code/DSA/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/shubhamsharma-code/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamsharma-code/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shubhamsharma-code/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Hash Table
@@ -66,5 +67,10 @@ DSA Question
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shubhamsharma-code/DSA/tree/master/0088-merge-sorted-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shubhamsharma-code/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/shubhamsharma-code/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
